@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/DirectorNi/static/js/main.ad8ce264.js",
+    "static/js/885.10b8070d.chunk.js": "/DirectorNi/static/js/885.10b8070d.chunk.js",
+    "static/media/background.mp3": "/DirectorNi/static/media/background.247f6828a54e6c39dfdd.mp3",
+    "index.html": "/DirectorNi/index.html",
+    "main.ad8ce264.js.map": "/DirectorNi/static/js/main.ad8ce264.js.map",
+    "885.10b8070d.chunk.js.map": "/DirectorNi/static/js/885.10b8070d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ad8ce264.js"
+  ]
+}
