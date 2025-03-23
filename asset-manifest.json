@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/vanishing-act/static/js/main.1042b0ad.js",
+    "static/js/885.10b8070d.chunk.js": "/vanishing-act/static/js/885.10b8070d.chunk.js",
+    "static/media/background.mp3": "/vanishing-act/static/media/background.247f6828a54e6c39dfdd.mp3",
+    "index.html": "/vanishing-act/index.html",
+    "main.1042b0ad.js.map": "/vanishing-act/static/js/main.1042b0ad.js.map",
+    "885.10b8070d.chunk.js.map": "/vanishing-act/static/js/885.10b8070d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1042b0ad.js"
+  ]
+}
